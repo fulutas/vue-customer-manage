@@ -1,6 +1,8 @@
 # vcustomers
 
-> Simple customer manager
+> Customer manager
+> Backend PHP
+> Frontend Vue
 
 ## Build Setup
 
